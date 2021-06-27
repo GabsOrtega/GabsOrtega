@@ -1,3 +1,3 @@
 - 👋 Olá, eu sou o Gabriel
-- 👀 Eu tenho bastante interesse na área de programação back-end
+- 👀 Eu tenho bastante interesse na área de programação Back-end
 - 🌱 Atualmente estou aprendendo Visual Basic, PHP, MYSQL.
