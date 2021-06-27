@@ -1,4 +1,3 @@
 - 👋 Olá, eu sou o Gabriel
-- 👀 Eu tenho bastante interesse na área de programação 
-- 🌱 Atualmente estou aprendendo Android, Visual Basic e PHP
-- 💞️ Com meus softwares pretendo deixar a vida das pessoas o mais simples possível e muito eficiente.
+- 👀 Eu tenho bastante interesse na área de programação back-end
+- 🌱 Atualmente estou aprendendo Visual Basic, PHP, MYSQL.
