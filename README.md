@@ -23,5 +23,7 @@
   </div>
   
  <div>
+   
   ![Snake animation](https://github.com/GabsOrtega)
+   
   </div>
